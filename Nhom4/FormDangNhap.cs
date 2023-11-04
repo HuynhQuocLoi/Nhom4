@@ -12,7 +12,7 @@
             FormChuongTrinh f=new FormChuongTrinh();
             this.Hide();
             f.ShowDialog();
-            this.Show();
+            //this.Show();
         }
 
         private void FormDangNhap_FormClosing(object sender, FormClosingEventArgs e)
